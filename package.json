@@ -49,7 +49,7 @@
     "string-argv": "^0.3.1",
     "strip-combining-marks": "^1.0.0",
     "stripe": "^6.36.0",
-    "web-push": "^3.5.0",
+    "web-push": "^3.6.7",
     "webp-converter": "^2.3.3"
   }
 }
