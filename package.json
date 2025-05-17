@@ -12,7 +12,7 @@
   "author": "https://powell.gg/",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.1.0",
+    "bcrypt": "^6.0.0",
     "coinbase-commerce-node": "^1.0.4",
     "compression": "^1.7.4",
     "connect-mongo": "^4.6.0",
