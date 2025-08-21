@@ -29,7 +29,7 @@
     "helmet": "^3.23.3",
     "html-entities": "^2.6.0",
     "is-animated": "^2.0.2",
-    "jimp": "^0.13.0",
+    "jimp": "^0.21.0",
     "jsdom": "^16.7.0",
     "limiter": "^2.1.0",
     "mailgun-js": "^0.22.0",
